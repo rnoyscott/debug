@@ -21,4 +21,4 @@ Email address = NoyScottRE@cardiff.ac.uk
 
 **email address and project code will need to be changed**
 
-The console output from running the script can be found in **consoleOutput.txt** which includes verbose error and warning messages.
+The console output from running the script can be found in **consoleOutput.txt** which includes verbose error and warning messages, along with the session information.
